@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECTS\\PracticeTest\\PracticeDataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99657A3B-000A-4469-8A25-5DCD566455DF}|PracticeDataStructure\\PracticeDataStructure.csproj|d:\\projects\\practicetest\\practicedatastructure\\practicedatastructure\\classes\\arrayclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99657A3B-000A-4469-8A25-5DCD566455DF}|PracticeDataStructure\\PracticeDataStructure.csproj|solutionrelative:practicedatastructure\\classes\\arrayclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99657A3B-000A-4469-8A25-5DCD566455DF}|PracticeDataStructure\\PracticeDataStructure.csproj|d:\\projects\\practicetest\\practicedatastructure\\practicedatastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99657A3B-000A-4469-8A25-5DCD566455DF}|PracticeDataStructure\\PracticeDataStructure.csproj|solutionrelative:practicedatastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99657A3B-000A-4469-8A25-5DCD566455DF}|PracticeDataStructure\\PracticeDataStructure.csproj|d:\\projects\\practicetest\\practicedatastructure\\practicedatastructure\\classes\\stringchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99657A3B-000A-4469-8A25-5DCD566455DF}|PracticeDataStructure\\PracticeDataStructure.csproj|solutionrelative:practicedatastructure\\classes\\stringchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99657A3B-000A-4469-8A25-5DCD566455DF}|PracticeDataStructure\\PracticeDataStructure.csproj|d:\\projects\\practicetest\\practicedatastructure\\practicedatastructure\\classes\\checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99657A3B-000A-4469-8A25-5DCD566455DF}|PracticeDataStructure\\PracticeDataStructure.csproj|solutionrelative:practicedatastructure\\classes\\checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99657A3B-000A-4469-8A25-5DCD566455DF}|PracticeDataStructure\\PracticeDataStructure.csproj|d:\\projects\\practicetest\\practicedatastructure\\practicedatastructure\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{99657A3B-000A-4469-8A25-5DCD566455DF}|PracticeDataStructure\\PracticeDataStructure.csproj|solutionrelative:practicedatastructure\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayClass.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\PracticeTest\\PracticeDataStructure\\PracticeDataStructure\\Classes\\ArrayClass.cs",
+              "RelativeDocumentMoniker": "PracticeDataStructure\\Classes\\ArrayClass.cs",
+              "ToolTip": "D:\\PROJECTS\\PracticeTest\\PracticeDataStructure\\PracticeDataStructure\\Classes\\ArrayClass.cs",
+              "RelativeToolTip": "PracticeDataStructure\\Classes\\ArrayClass.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:54:35.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringChar.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\PracticeTest\\PracticeDataStructure\\PracticeDataStructure\\Classes\\StringChar.cs",
+              "RelativeDocumentMoniker": "PracticeDataStructure\\Classes\\StringChar.cs",
+              "ToolTip": "D:\\PROJECTS\\PracticeTest\\PracticeDataStructure\\PracticeDataStructure\\Classes\\StringChar.cs",
+              "RelativeToolTip": "PracticeDataStructure\\Classes\\StringChar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:29:51.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckList.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\PracticeTest\\PracticeDataStructure\\PracticeDataStructure\\Classes\\CheckList.cs",
+              "RelativeDocumentMoniker": "PracticeDataStructure\\Classes\\CheckList.cs",
+              "ToolTip": "D:\\PROJECTS\\PracticeTest\\PracticeDataStructure\\PracticeDataStructure\\Classes\\CheckList.cs",
+              "RelativeToolTip": "PracticeDataStructure\\Classes\\CheckList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T03:25:10.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\PROJECTS\\PracticeTest\\PracticeDataStructure\\PracticeDataStructure\\Dockerfile",
+              "RelativeDocumentMoniker": "PracticeDataStructure\\Dockerfile",
+              "ToolTip": "D:\\PROJECTS\\PracticeTest\\PracticeDataStructure\\PracticeDataStructure\\Dockerfile",
+              "RelativeToolTip": "PracticeDataStructure\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-09T01:47:58.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\PracticeTest\\PracticeDataStructure\\PracticeDataStructure\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeDataStructure\\Program.cs",
+              "ToolTip": "D:\\PROJECTS\\PracticeTest\\PracticeDataStructure\\PracticeDataStructure\\Program.cs",
+              "RelativeToolTip": "PracticeDataStructure\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwCQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T01:36:58.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

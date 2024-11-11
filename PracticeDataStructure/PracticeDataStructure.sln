@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeDataStructure", "PracticeDataStructure\PracticeDataStructure.csproj", "{99657A3B-000A-4469-8A25-5DCD566455DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99657A3B-000A-4469-8A25-5DCD566455DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99657A3B-000A-4469-8A25-5DCD566455DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99657A3B-000A-4469-8A25-5DCD566455DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99657A3B-000A-4469-8A25-5DCD566455DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91CBA99B-DF88-45C2-97BC-FB86A8EEBB11}
+	EndGlobalSection
+EndGlobal

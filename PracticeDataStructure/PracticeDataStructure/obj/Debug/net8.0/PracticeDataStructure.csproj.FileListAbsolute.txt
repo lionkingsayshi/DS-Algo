@@ -1,0 +1,14 @@
+D:\PROJECTS\PracticeTest\PracticeDataStructure\PracticeDataStructure\bin\Debug\net8.0\PracticeDataStructure.exe
+D:\PROJECTS\PracticeTest\PracticeDataStructure\PracticeDataStructure\bin\Debug\net8.0\PracticeDataStructure.deps.json
+D:\PROJECTS\PracticeTest\PracticeDataStructure\PracticeDataStructure\bin\Debug\net8.0\PracticeDataStructure.runtimeconfig.json
+D:\PROJECTS\PracticeTest\PracticeDataStructure\PracticeDataStructure\bin\Debug\net8.0\PracticeDataStructure.dll
+D:\PROJECTS\PracticeTest\PracticeDataStructure\PracticeDataStructure\bin\Debug\net8.0\PracticeDataStructure.pdb
+D:\PROJECTS\PracticeTest\PracticeDataStructure\PracticeDataStructure\obj\Debug\net8.0\PracticeDataStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\PracticeTest\PracticeDataStructure\PracticeDataStructure\obj\Debug\net8.0\PracticeDataStructure.AssemblyInfoInputs.cache
+D:\PROJECTS\PracticeTest\PracticeDataStructure\PracticeDataStructure\obj\Debug\net8.0\PracticeDataStructure.AssemblyInfo.cs
+D:\PROJECTS\PracticeTest\PracticeDataStructure\PracticeDataStructure\obj\Debug\net8.0\PracticeDataStructure.csproj.CoreCompileInputs.cache
+D:\PROJECTS\PracticeTest\PracticeDataStructure\PracticeDataStructure\obj\Debug\net8.0\PracticeDataStructure.dll
+D:\PROJECTS\PracticeTest\PracticeDataStructure\PracticeDataStructure\obj\Debug\net8.0\refint\PracticeDataStructure.dll
+D:\PROJECTS\PracticeTest\PracticeDataStructure\PracticeDataStructure\obj\Debug\net8.0\PracticeDataStructure.pdb
+D:\PROJECTS\PracticeTest\PracticeDataStructure\PracticeDataStructure\obj\Debug\net8.0\PracticeDataStructure.genruntimeconfig.cache
+D:\PROJECTS\PracticeTest\PracticeDataStructure\PracticeDataStructure\obj\Debug\net8.0\ref\PracticeDataStructure.dll

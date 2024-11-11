@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PracticeDataStructure": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
